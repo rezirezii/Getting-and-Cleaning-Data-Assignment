@@ -2,7 +2,7 @@
 
 # Code Book
 
-#The tidy dataset includes 180 rows and 68 colums so that avarage of "subject" and "activity" variables illustrate in a row of dataset. Hence, the dataset shows only the average (mean value) and standart deviation of these variables.
+The tidy dataset includes 180 rows and 68 colums so that avarage of "subject" and "activity" variables illustrate in a row of dataset. Hence, the dataset shows only the average (mean value) and standart deviation of these variables.
 
 ## Columns
 Activity column consists of 6 activities such as: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, and LAYING.
